@@ -1,0 +1,18 @@
+body{
+  background-color: #16171d;
+  color: white;
+}
+
+h1{
+  text-align: center;
+  margin-top: 5%;
+}
+
+#counter{
+  text-align: center;
+}
+
+button{
+  margin: 10px;
+  padding: 5px;
+}
