@@ -20,7 +20,6 @@ function Counter() {
     }
   }
 
-  
   return (
     <>
       <h1>Nishant Kushwaha</h1>
@@ -35,3 +34,26 @@ function Counter() {
 }
 
 export default Counter
+
+
+
+// import { useState } from 'react'
+
+// function Counter() {
+
+//   let [counter, b] = useState(10)
+
+//   return (
+//     <>
+//       <h1>Nishant Kushwaha</h1>
+//       <div id="counter">
+//         <h2>Counter: {counter}</h2>
+//         <button onClick={() => b(counter+1)}>Add</button>
+//         <button onClick={() => b(counter-1)}>Remove</button>
+//       </div>
+
+//     </>
+//   )
+// }
+
+// export default Counter
